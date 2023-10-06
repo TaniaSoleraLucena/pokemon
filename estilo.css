@@ -1,0 +1,142 @@
+.container {margin-left: 10%;
+           margin-right: 10%;}
+
+body {background-image: url(../Ejercicio1/fondo.jpg);
+        background-attachment: fixed;}
+
+#inicio {background-color: white;
+        padding: 3%;
+        margin-top: 3%;}
+
+#fuego {background-color: rgb(255, 136, 136);
+        padding: 3%;
+        margin-top: 3%;}
+
+#agua {background-color: rgb(136, 207, 255);
+        padding: 3%;
+        margin-top: 3%;}
+
+#planta {background-color: rgb(136, 255, 164);
+        padding: 3%;
+        margin-top: 3%;}
+
+#electrico {background-color: rgb(229, 255, 136);
+        padding: 3%;
+        margin-top: 3%;}
+
+#dragon {background-color: rgb(110, 115, 254);
+        padding: 3%;
+        margin-top: 3%;}
+
+#bicho {background-color: rgb(199, 255, 136);
+        padding: 3%;
+        margin-top: 3%;}
+
+#acero {background-color: rgb(144, 171, 201);
+        padding: 3%;
+        margin-top: 3%;}
+
+#fantasma {background-color: rgb(158, 123, 255);
+        padding: 3%;
+        margin-top: 3%;}
+
+#hada {background-color: rgb(255, 155, 217);
+        padding: 3%;
+        margin-top: 3%;}
+
+footer {background-color: white;
+        padding: 3%;
+        margin-top: 3%;}
+
+#ditto {width: 40px;
+float: right;}
+
+#charizard {float: right;
+width: 250px;
+}
+
+#blastoise {float: left;
+width: 160px;
+padding-right: 2%;
+}
+
+#pika {float: left;
+width: 160px;
+padding-right: 2%;
+}
+
+#gengar {float: left;
+        width: 160px;
+        padding-right: 2%;
+        }
+
+#dragonite {float: right;
+        width: 160px;
+        padding-right: 2%;
+        }
+
+#klin {float: right;
+        width: 160px;
+        padding-right: 2%;
+        }
+
+#sylveon {float: right;
+        width: 200px;
+        padding-right: 2%;
+        }
+
+#weedle {float: left;
+        width: 110px;
+        padding-right: 2%;
+        padding-bottom: 5%;
+}
+
+#venosaur {float: right;
+width: 160px;
+padding-left: 2%;
+}
+
+#ash {float: right;
+width: 160px;
+padding-left: 2%;}
+
+#icono {width: 20px;
+margin-right: 1%;
+margin-left: 2%;
+}
+
+ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      /* Change the link color to #111 (black) on hover */
+      li a:hover {
+        background-color: #111;
+      }
+
+
+header {
+        padding: 3%;
+        margin-top: 2%;
+        margin-bottom: 2%;
+        }
+
+#poke {
+width: 400px;
+padding-left: 27%;}
